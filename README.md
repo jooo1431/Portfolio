@@ -1,11 +1,11 @@
 # AI Engineer/Scientist
-#### Technical Skills:
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/gears.svg" width="30" height="20"> Technical Skills:
 - #### Computer Vision: Object Detection, OpenCV, Conditional Image Generation, Diffusion Models, YOLO
 - #### Deep Learning: PyTorch, Keras, TensorFlow, HuggingFace, ONNX, LLM, Transformer, GPT, BioBERT
 - **Software Dev. & Backend**: Python, C, C++, C#, Java, JavaScript, .NET Framework, Spring Boot, Node.js, MySQL, Docker, AWS(EC2, RDS, S3,), Fast API, Git
 - **Computer Graphics & Simulation**: Unity Game Engin, OpenGL, GLSL, BlenderProc, 3DS MAX, GPU Programming
 
-## Education
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/graduation-cap.svg" width="30" height="20"> Education
 ### M.Sc. in Computer Science | University of Stuttgart, Germany (2021-2025)
 - Thesis: ["A 3D-aware Conditional Diffusion Model for Gaze Redirection"](https://github.com/jooo1431/3DGaze-Redirection)
 - Courses: Deep Learning, Machine Learning, Computer Vision, Detection&Pattern Recognition, Information/Scientific Visualization, DL for NLP, Information Retrieval and Text Mining, Lab Courses: Visual Computing, AI, Machine Perception Learning
@@ -17,8 +17,7 @@
 - Courses: Computer Vision, 3D Graphics Programming, Game Engineering, UI/UX Design, C/C++ Programming, Server Programming, Data Structure and Algorithm, System Software, Database Applications, System Security
 - [Transcript](https://github.com/jooo1431/Portfolio/blob/main/transcripts/uni-assist_Pruefbericht_.pdf) : 1.8 (German Scaled)
 
-## Work Experience
-
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/briefcase.svg" width="30" height="20"> Work Experience
 ### Student Research Assistant @ [Collaborative AI Lab](https://www.collaborative-ai.org/) - University of Stuttgart (July 2024 - Mar 2025 )
 - 3D Scene Reconstruction via Eye Reflection: Generated gaze image datasets using BlenderProc.
 - Diffusion-Based Eye Movement Synthesis: Visualized synthesized gaze data on a 3D head model.
@@ -39,8 +38,8 @@
   - [Tooc](https://github.com/jooo1431/Travely): Luggage Storing & Delivery Platform
   - [WITH](https://github.com/jooo1431/WITH): Platform for Connecting & Finding Travel Buddies 
 
-## Projects
-### ["A 3D-aware Conditional Diffusion Model for Gaze Redirection"](https://github.com/jooo1431/3DGaze-Redirection)
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/laptop-code.svg" width="30" height="20"> Projects
+### [A 3D-aware Conditional Diffusion Model for Gaze Redirection](https://github.com/jooo1431/3DGaze-Redirection)
 - Master's thesis project
 
 ### [Real-time Ocean Simulation](https://github.com/jooo1431/Ocean_Simulation_OpenGL)
